@@ -13,5 +13,5 @@ Este proyecto implementa una red neuronal simple para clasificar im√°genes de d√
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/mnist-classifier.git
+   git clone https://github.com/desarrolladorfinal/mnist-classifier.git
    cd mnist-classifier
